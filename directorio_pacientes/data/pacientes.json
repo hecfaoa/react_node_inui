@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "nombre": "Javier Andres Caicedo Rodriguez",
+    "identificacion": "1234567890",
+    "tipo_identificacion": "CC",
+    "edad": 30,
+    "fecha_de_nacimiento": "12/12/2022",
+    "movil": "3005893604",
+    "telefono": "1234567",
+    "direccion": "Calle 15C # 92 - 51",
+    "ocupacion": "Independiente",
+    "eps": "Eps Sanitas",
+    "ultima_atencion": "10/01/2024",
+    "tipo_atencion": "Consulta de Psiquiatria",
+    "estado": "Estable"
+  },
+  {
+    "id": "2",
+    "nombre": "Juan Andres Perez Alvarez",
+    "identificacion": "1234567890",
+    "tipo_identificacion": "CE",
+    "edad": 30,
+    "fecha_de_nacimiento": "12/12/2022",
+    "movil": "3005893604",
+    "telefono": "1234567",
+    "direccion": "Calle 15C # 92 - 51",
+    "ocupacion": "Independiente",
+    "eps": "Eps Sanitas",
+    "ultima_atencion": "10/01/2024",
+    "tipo_atencion": "Consulta de Psiquiatria",
+    "estado": "Critico"
+  },
+  {
+    "id": "3",
+    "nombre": "Camilo Andres Hurtado",
+    "identificacion": "1234567890",
+    "tipo_identificacion": "TI",
+    "edad": 30,
+    "fecha_de_nacimiento": "12/12/2022",
+    "movil": "3005893604",
+    "telefono": "1234567",
+    "direccion": "Calle 15C # 92 - 51",
+    "ocupacion": "Independiente",
+    "eps": "Eps Sanitas",
+    "ultima_atencion": "10/01/2024",
+    "tipo_atencion": "Consulta de Psiquiatria",
+    "estado": "Moderado"
+  }
+]

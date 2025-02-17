@@ -1,0 +1,34 @@
+[
+  {
+    "id": "af859d1b-cb40-4d93-93a4-06cdd3e77dea",
+    "id_paciente": "3",
+    "medico": "Dra  Jessica Vazquez",
+    "especialidad": "psicologa",
+    "descripcion": "requiere hospitalizacion",
+    "fecha": "2025-01-16"
+  },
+  {
+    "id": "0b72226a-c315-49c4-b2e6-3e96c96186b4",
+    "id_paciente": "3",
+    "medico": "Dra  Jessica Vazquez",
+    "especialidad": "psicologa",
+    "descripcion": "se diagnostica ludopatia",
+    "fecha": "2025-02-16"
+  },
+  {
+    "id": "7dceb056-86bf-4d5c-bb81-e5e9aca10e54",
+    "id_paciente": "3",
+    "medico": "Dra  Jessica Vazquez",
+    "especialidad": "psicologa",
+    "descripcion": "",
+    "fecha": "2025-02-16"
+  },
+  {
+    "id": "19d17d38-73a0-40b3-ae59-cb32745954ce",
+    "id_paciente": "1",
+    "medico": "Dra  Jessica Vazquez",
+    "especialidad": "psicologa",
+    "descripcion": "inicio de tratamiento",
+    "fecha": "2025-02-16"
+  }
+]
